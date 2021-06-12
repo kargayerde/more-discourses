@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="33.28027mm"
+   height="27.160362mm"
+   viewBox="0 0 33.28027 27.160363"
+   version="1.1"
+   id="svg10903"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="impotence.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10905"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.9857056"
+     inkscape:cx="3.5167567"
+     inkscape:cy="98.301722"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs10900">
+    <inkscape:path-effect
+       effect="line_segment"
+       id="path-effect11493"
+       is_visible="true"
+       lpeversion="1"
+       end_type="open_both" />
+    <inkscape:path-effect
+       effect="parallel"
+       offset_pt="91.617032,92.415443"
+       id="path-effect11297"
+       is_visible="true"
+       lpeversion="1"
+       length-left="150"
+       length-right="150" />
+    <inkscape:path-effect
+       effect="parallel"
+       offset_pt="110.56915,153.97914"
+       id="path-effect11021"
+       is_visible="true"
+       lpeversion="1"
+       length-left="150"
+       length-right="150" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-91.751727,-114.98673)">
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono';stroke-width:0.264583"
+       x="91.186577"
+       y="141.0676"
+       id="text13587"><tspan
+         sodipodi:role="line"
+         id="tspan13585"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6.35px;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono Medium';stroke-width:0.264583"
+         x="91.186577"
+         y="141.0676">impotence</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:1.25;font-family:'JetBrains Mono';-inkscape-font-specification:'JetBrains Mono';stroke-width:0.264583"
+       x="100.84579"
+       y="130.79823"
+       id="text16219"><tspan
+         sodipodi:role="line"
+         id="tspan16217"
+         style="font-size:19.05px;stroke-width:0.264583"
+         x="100.84579"
+         y="130.79823"
+         dx="0 -7.1399999">//</tspan></text>
+  </g>
+</svg>

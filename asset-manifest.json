@@ -1,22 +1,19 @@
 {
   "files": {
-    "main.css": "/lacanian-discourse-combinator/static/css/main.f4144bbc.chunk.css",
-    "main.js": "/lacanian-discourse-combinator/static/js/main.377e533b.chunk.js",
-    "main.js.map": "/lacanian-discourse-combinator/static/js/main.377e533b.chunk.js.map",
-    "runtime-main.js": "/lacanian-discourse-combinator/static/js/runtime-main.b8795377.js",
-    "runtime-main.js.map": "/lacanian-discourse-combinator/static/js/runtime-main.b8795377.js.map",
-    "static/js/2.fbdc5f35.chunk.js": "/lacanian-discourse-combinator/static/js/2.fbdc5f35.chunk.js",
-    "static/js/2.fbdc5f35.chunk.js.map": "/lacanian-discourse-combinator/static/js/2.fbdc5f35.chunk.js.map",
-    "static/js/3.8ae02c9d.chunk.js": "/lacanian-discourse-combinator/static/js/3.8ae02c9d.chunk.js",
-    "static/js/3.8ae02c9d.chunk.js.map": "/lacanian-discourse-combinator/static/js/3.8ae02c9d.chunk.js.map",
+    "main.css": "/lacanian-discourse-combinator/static/css/main.27823c6b.chunk.css",
+    "main.js": "/lacanian-discourse-combinator/static/js/main.54956406.chunk.js",
+    "main.js.map": "/lacanian-discourse-combinator/static/js/main.54956406.chunk.js.map",
+    "runtime-main.js": "/lacanian-discourse-combinator/static/js/runtime-main.99e03661.js",
+    "runtime-main.js.map": "/lacanian-discourse-combinator/static/js/runtime-main.99e03661.js.map",
+    "static/js/2.967b13a0.chunk.js": "/lacanian-discourse-combinator/static/js/2.967b13a0.chunk.js",
+    "static/js/2.967b13a0.chunk.js.map": "/lacanian-discourse-combinator/static/js/2.967b13a0.chunk.js.map",
     "index.html": "/lacanian-discourse-combinator/index.html",
-    "static/css/main.f4144bbc.chunk.css.map": "/lacanian-discourse-combinator/static/css/main.f4144bbc.chunk.css.map",
-    "static/js/2.fbdc5f35.chunk.js.LICENSE.txt": "/lacanian-discourse-combinator/static/js/2.fbdc5f35.chunk.js.LICENSE.txt",
-    "static/media/README.d28853c2.md": "/lacanian-discourse-combinator/static/media/README.d28853c2.md",
+    "static/css/main.27823c6b.chunk.css.map": "/lacanian-discourse-combinator/static/css/main.27823c6b.chunk.css.map",
+    "static/js/2.967b13a0.chunk.js.LICENSE.txt": "/lacanian-discourse-combinator/static/js/2.967b13a0.chunk.js.LICENSE.txt",
+    "static/media/README.3cd2f4bc.md": "/lacanian-discourse-combinator/static/media/README.3cd2f4bc.md",
     "static/media/bar.8e38f429.svg": "/lacanian-discourse-combinator/static/media/bar.8e38f429.svg",
     "static/media/contingency.0251d6d8.svg": "/lacanian-discourse-combinator/static/media/contingency.0251d6d8.svg",
     "static/media/cwarrow.93b3e505.svg": "/lacanian-discourse-combinator/static/media/cwarrow.93b3e505.svg",
-    "static/media/cwarrow90.89eda847.svg": "/lacanian-discourse-combinator/static/media/cwarrow90.89eda847.svg",
     "static/media/impossibility.495c2197.svg": "/lacanian-discourse-combinator/static/media/impossibility.495c2197.svg",
     "static/media/impotence.0124c1b5.svg": "/lacanian-discourse-combinator/static/media/impotence.0124c1b5.svg",
     "static/media/linarrow.3ebd577b.svg": "/lacanian-discourse-combinator/static/media/linarrow.3ebd577b.svg",
@@ -26,9 +23,9 @@
     "static/media/tavarish.24013285.jpg": "/lacanian-discourse-combinator/static/media/tavarish.24013285.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b8795377.js",
-    "static/js/2.fbdc5f35.chunk.js",
-    "static/css/main.f4144bbc.chunk.css",
-    "static/js/main.377e533b.chunk.js"
+    "static/js/runtime-main.99e03661.js",
+    "static/js/2.967b13a0.chunk.js",
+    "static/css/main.27823c6b.chunk.css",
+    "static/js/main.54956406.chunk.js"
   ]
 }

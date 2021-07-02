@@ -1,7 +1,10 @@
 # Lacanian Discourse Combinator
-This is a tool for exploring various discourses that can be produced by extending [Jacques Lacan](https://en.wikipedia.org/wiki/Jacques_Lacan)'s theory of [the Four Discourses](https://nosubject.com/Four_Discourses).
+This is a tool for exploring various discourses that can be produced by extending [Jacques Lacan](https://en.wikipedia.org/wiki/Jacques_Lacan)'s theory of [the Four Discourses](https://nosubject.com/Four_Discourses). 
+
+---
+This project is developed for personal use without proper testing for a release, thus it may contain various bugs. View on desktop using Brave/Chrome to minimize the problems.
 ## Usage
-Input a discourse with four mathemes into the input box. If a discourse has a predefined name, it will get displayed (by default the original four discourses are defined). Clear button clears the form.
+Input a discourse comprised of four mathemes into the input box. If a discourse has a predefined name, it will get displayed (by default the original four discourses are defined). Rotate buttons rotate the inner ring, producing a new outer ring. Clear button clears the form.
 ### Inner Ring
 Inputting a discourse produces the three other rotations of that discourse 
 in the inner circle, forming a complete ring (e.g. Inputting any of the original four discourses will produce the other three, forming the ring of the four discourses).

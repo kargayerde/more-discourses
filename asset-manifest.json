@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/more-discourses/static/css/main.41b37291.chunk.css",
-    "main.js": "/more-discourses/static/js/main.178b31bc.chunk.js",
-    "main.js.map": "/more-discourses/static/js/main.178b31bc.chunk.js.map",
-    "runtime-main.js": "/more-discourses/static/js/runtime-main.d5c0f52d.js",
-    "runtime-main.js.map": "/more-discourses/static/js/runtime-main.d5c0f52d.js.map",
-    "static/js/2.01813569.chunk.js": "/more-discourses/static/js/2.01813569.chunk.js",
-    "static/js/2.01813569.chunk.js.map": "/more-discourses/static/js/2.01813569.chunk.js.map",
+    "main.css": "/more-discourses/static/css/main.071ff826.chunk.css",
+    "main.js": "/more-discourses/static/js/main.5f97fc18.chunk.js",
+    "main.js.map": "/more-discourses/static/js/main.5f97fc18.chunk.js.map",
+    "runtime-main.js": "/more-discourses/static/js/runtime-main.1c91f439.js",
+    "runtime-main.js.map": "/more-discourses/static/js/runtime-main.1c91f439.js.map",
+    "static/js/2.825910ab.chunk.js": "/more-discourses/static/js/2.825910ab.chunk.js",
+    "static/js/2.825910ab.chunk.js.map": "/more-discourses/static/js/2.825910ab.chunk.js.map",
     "index.html": "/more-discourses/index.html",
-    "static/css/main.41b37291.chunk.css.map": "/more-discourses/static/css/main.41b37291.chunk.css.map",
-    "static/js/2.01813569.chunk.js.LICENSE.txt": "/more-discourses/static/js/2.01813569.chunk.js.LICENSE.txt",
+    "static/css/main.071ff826.chunk.css.map": "/more-discourses/static/css/main.071ff826.chunk.css.map",
+    "static/js/2.825910ab.chunk.js.LICENSE.txt": "/more-discourses/static/js/2.825910ab.chunk.js.LICENSE.txt",
     "static/media/README.3cd2f4bc.md": "/more-discourses/static/media/README.3cd2f4bc.md",
     "static/media/bar.8e38f429.svg": "/more-discourses/static/media/bar.8e38f429.svg",
     "static/media/contingency.0251d6d8.svg": "/more-discourses/static/media/contingency.0251d6d8.svg",
@@ -18,14 +18,14 @@
     "static/media/impotence.0124c1b5.svg": "/more-discourses/static/media/impotence.0124c1b5.svg",
     "static/media/linarrow.3ebd577b.svg": "/more-discourses/static/media/linarrow.3ebd577b.svg",
     "static/media/necessity.4853de1a.svg": "/more-discourses/static/media/necessity.4853de1a.svg",
-    "static/media/App.css": "/more-discourses/static/media/radial.7665c133.svg",
+    "static/media/Home.css": "/more-discourses/static/media/radial.7665c133.svg",
     "static/media/discourseselector.css": "/more-discourses/static/media/selectarrow.9c4bacc1.svg",
     "static/media/tavarish.24013285.jpg": "/more-discourses/static/media/tavarish.24013285.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5c0f52d.js",
-    "static/js/2.01813569.chunk.js",
-    "static/css/main.41b37291.chunk.css",
-    "static/js/main.178b31bc.chunk.js"
+    "static/js/runtime-main.1c91f439.js",
+    "static/js/2.825910ab.chunk.js",
+    "static/css/main.071ff826.chunk.css",
+    "static/js/main.5f97fc18.chunk.js"
   ]
 }
